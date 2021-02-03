@@ -20,7 +20,7 @@ through [plugins](https://github.com/DeepAnik/uniborg/tree/master/stdplugins)
 which you can enable or disable on demand.
 
 Each plugin gets the `borg`, `logger` and `storage` magical
-[variables](https://github.com/DeepAnik/uniborg/blob/4805f2f6de7d734c341bb978318f44323ad525f1/uniborg/uniborg.py#L66-L68)
+[variables](https://github.com/deepanik/uniborg/tree/master/blob/master/uniborg)
 to ease their use. Thus creating a plugin as easy as adding
 a new file under the plugin directory to do the job:
 
